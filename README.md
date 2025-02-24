@@ -1,0 +1,1 @@
+Code required to replicate the analysis of Miles Mathis' theory of solar cycles, accompanying this article: https://overduerevolutions.wordpress.com/2025/02/24/a-refutation-of-miles-mathis-theory-of-solar-cycles/
